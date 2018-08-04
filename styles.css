@@ -1,18 +1,52 @@
 <style>
-body {
-    background-color: lightgray;
+main {
+     
+           
 }
-
-h1 {
-    color: maroon;
-    margin-left: 40px;
+body {
+      text-align: center;
+      background-color: gray;
+      margin-left: 150px;
+      margin-right: 150px;
 } 
 
-div {
-    background-color: lightblue;
+article {
+        color: DarkSlateGray;
+        background-color: lightgray;
+}
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    background-color: DarkSlateGray;
+} 
+
+h2 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    background-color: DarkSlateGray;
 }
 
+
 p {
-    background-color: yellow;
+    
+    text-align: center;
+}
+
+header {
+       text-align: left;
+       
+       color: DarkSlateGray;
+}
+  
+nav {
+    padding-left: 450px;
+    padding-right: 450px;
+}
+
+#tform {
+      color: black;
+      margin-top: 0px
 }
 </style>
